@@ -1,6 +1,6 @@
 # Unsplash Photo Downloader
 
-Recently, my friend, ![Dhron](https://www.github.com/Dhron), showed me a website called Unsplash. This website contains collections of various high definition photos which can be used for whatever you want. I really liked the photos so I created a script which downloads them at random from various pages on the website.
+Recently, my friend, [Dhron](https://www.github.com/Dhron), showed me a website called Unsplash. This website contains collections of various high definition photos which can be used for whatever you want. I really liked the photos so I created a script which downloads them at random from various pages on the website.
 
 With this script, you can choose to download from the "Popular" collection, the "New" collection or the main page which is the "Featured" collection.
 
@@ -65,7 +65,7 @@ The photo has been saved.
 ![I liked the colors on this](/pictures/gWDPk5KYLc4.jpg)
 
 
-#### License
+### License
 
 
 MIT
