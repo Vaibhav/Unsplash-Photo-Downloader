@@ -13,6 +13,7 @@ import requests
 from bs4 import BeautifulSoup
 import random
 import os
+import time
 
 # Asking user for what type of collection they would like to download from
 print '\n====================================================================================='
