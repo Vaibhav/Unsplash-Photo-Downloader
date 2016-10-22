@@ -71,3 +71,15 @@ The photo has been saved.
 MIT
 
 **Free Software, Hell Yeah!**
+
+### Issues
+
+Got this error when downloading from features album. Unable to reproduce: 
+
+Traceback (most recent call last):
+  File "unsplash.py", line 58, in <module>
+      img = random.choice(data)
+        File "C:\IntelPython27\lib\random.py", line 275, in choice
+	    return seq[int(self.random() * len(seq))]  # raises IndexError if seq is empty
+	    IndexError: list index out of range
+
